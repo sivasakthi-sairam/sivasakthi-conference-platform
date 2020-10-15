@@ -137,7 +137,7 @@ const Room = (props) => {
 
     return (
         <Container>
-            <StyledVideo muted ref={userVideo} autoPlay playsInline controls />
+            <StyledVideo ref={userVideo} autoPlay playsInline controls />
 
             
 
